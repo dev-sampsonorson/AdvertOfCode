@@ -4,7 +4,7 @@ using System.IO;
 using System.Threading.Tasks;
 
 namespace AdventOfCode {
-    class Day2 {
+    class Day02 {
         private static string inputFilePath = "day-2-input.txt";
 
         private class PasswordPolicy {

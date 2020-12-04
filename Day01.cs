@@ -5,7 +5,7 @@ using System.Text;
 using System.Linq;
 
 namespace AdventOfCode {
-    class Day1 {
+    class Day01 {
         private static string inputFile = "day-1-input.txt";
 
 

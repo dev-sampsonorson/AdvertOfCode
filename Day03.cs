@@ -6,7 +6,7 @@ using System.Text;
 namespace AdventOfCode {
 
 
-    class Day3 {
+    class Day03 {
 
         private static string inputFile = "day-3-input.txt";
 
