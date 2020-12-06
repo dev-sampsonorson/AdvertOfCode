@@ -12,7 +12,7 @@ namespace AdventOfCode {
 
         public static async Task Main(string[] args) {
             // What day
-            int day = DateTime.Now.Day;
+            int day = 5; // DateTime.Now.Day;
             if (args.Length > 0) {
                 day = Convert.ToInt32(args[0]);
             }
